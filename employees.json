@@ -1,0 +1,9 @@
+{
+    "1": {
+        "employee_name": "Test test",
+        "employee_id": "1",
+        "department": "TST",
+        "base_salary": 1000.0,
+        "bonus": 12.0
+    }
+}
